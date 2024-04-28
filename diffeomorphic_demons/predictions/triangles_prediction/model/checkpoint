@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/nastya/Documents/ucu/thesis/diffeomorphic_demons/src/triangles/model/model.ckpt"
+all_model_checkpoint_paths: "/Users/nastya/Documents/ucu/thesis/diffeomorphic_demons/src/triangles/model/model.ckpt"
